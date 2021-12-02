@@ -9,6 +9,11 @@
 </OBJECT>
 <UL>
     <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="*** No Title Found *** wp-content\plugins\hayyabuild\public\assets\css\index.html">
+            <param name="Name" value="*** No Title Found *** wp-content\plugins\hayyabuild\public\assets\css\index.html">
+            <param name="Local" value="wp-content/plugins/hayyabuild/public/assets/css/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
             <param name="Name" value="Administration &#8211; LOC SMS Help">
             <param name="Name" value="Administration &#8211; LOC SMS Help">
             <param name="Local" value="knowledge-base/category/administration/index.html">
@@ -91,12 +96,7 @@
     <LI><OBJECT type="text/sitemap">
             <param name="Name" value="Dimensions &#8211; LOC SMS Help">
             <param name="Name" value="Dimensions &#8211; LOC SMS Help">
-            <param name="Local" value="knowledge-base/category/manual/esuite/esuite-care/dimensions-care/index.html">
-         </OBJECT>
-    <LI><OBJECT type="text/sitemap">
-            <param name="Name" value="Dimensions &#8211; LOC SMS Help">
-            <param name="Name" value="Dimensions &#8211; LOC SMS Help">
-            <param name="Local" value="knowledge-base/category/manual/esuite/esuite-batch/dimensions-batch/index.html">
+            <param name="Local" value="knowledge-base/category/manual/esuite/esuite-manage/dimensions-manage/index.html">
          </OBJECT>
     <LI><OBJECT type="text/sitemap">
             <param name="Name" value="Dimensions &#8211; LOC SMS Help">
@@ -106,12 +106,17 @@
     <LI><OBJECT type="text/sitemap">
             <param name="Name" value="Dimensions &#8211; LOC SMS Help">
             <param name="Name" value="Dimensions &#8211; LOC SMS Help">
-            <param name="Local" value="knowledge-base/category/manual/esuite/esuite-manage/dimensions-manage/index.html">
+            <param name="Local" value="knowledge-base/category/manual/esuite/esuite-sell/dimensions-sell/index.html">
          </OBJECT>
     <LI><OBJECT type="text/sitemap">
             <param name="Name" value="Dimensions &#8211; LOC SMS Help">
             <param name="Name" value="Dimensions &#8211; LOC SMS Help">
-            <param name="Local" value="knowledge-base/category/manual/esuite/esuite-sell/dimensions-sell/index.html">
+            <param name="Local" value="knowledge-base/category/manual/esuite/esuite-care/dimensions-care/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="Dimensions &#8211; LOC SMS Help">
+            <param name="Name" value="Dimensions &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/category/manual/esuite/esuite-batch/dimensions-batch/index.html">
          </OBJECT>
     <LI><OBJECT type="text/sitemap">
             <param name="Name" value="eCommerce &#8211; eStore Application &#8211; LOC SMS Help">
@@ -271,12 +276,12 @@
     <LI><OBJECT type="text/sitemap">
             <param name="Name" value="Items &#8211; LOC SMS Help">
             <param name="Name" value="Items &#8211; LOC SMS Help">
-            <param name="Local" value="knowledge-base/category/manual/esuite/esuite-manage/items-manage/index.html">
+            <param name="Local" value="knowledge-base/category/manual/esuite/esuite-care/items-care/index.html">
          </OBJECT>
     <LI><OBJECT type="text/sitemap">
             <param name="Name" value="Items &#8211; LOC SMS Help">
             <param name="Name" value="Items &#8211; LOC SMS Help">
-            <param name="Local" value="knowledge-base/category/manual/esuite/esuite-sell/items-sell/index.html">
+            <param name="Local" value="knowledge-base/category/manual/esuite/esuite-manage/items-manage/index.html">
          </OBJECT>
     <LI><OBJECT type="text/sitemap">
             <param name="Name" value="Items &#8211; LOC SMS Help">
@@ -286,7 +291,7 @@
     <LI><OBJECT type="text/sitemap">
             <param name="Name" value="Items &#8211; LOC SMS Help">
             <param name="Name" value="Items &#8211; LOC SMS Help">
-            <param name="Local" value="knowledge-base/category/manual/esuite/esuite-care/items-care/index.html">
+            <param name="Local" value="knowledge-base/category/manual/esuite/esuite-sell/items-sell/index.html">
          </OBJECT>
     <LI><OBJECT type="text/sitemap">
             <param name="Name" value="KB Editor Features Demo &#8211; LOC SMS Help">

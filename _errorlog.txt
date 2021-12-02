@@ -91,48 +91,25 @@ knowledge-base\manual\mfloor\mfloor-recommendations\index.html
 knowledge-base\tag\information\index.html
 knowledge-base\tag\split\index.html
 privacy-policy\index.html
-wp-content\plugins\advanced-gutenberg\assets\blocks\contact-form\frontend.js
-wp-content\plugins\advanced-gutenberg\assets\css\blocks.css
-wp-content\plugins\advanced-gutenberg\assets\css\colorbox.css
-wp-content\plugins\advanced-gutenberg\assets\css\columns.css
-wp-content\plugins\advanced-gutenberg\assets\css\editor.css
-wp-content\plugins\advanced-gutenberg\assets\css\recent-posts.css
-wp-content\plugins\advanced-gutenberg\assets\images\close.png
-wp-content\plugins\advanced-gutenberg\assets\images\loading.gif
-wp-content\plugins\advanced-gutenberg\assets\images\next.png
-wp-content\plugins\advanced-gutenberg\assets\images\prev.png
-wp-content\plugins\advanced-gutenberg\assets\js\gallery.colorbox.init.js
-wp-content\plugins\advanced-gutenberg\assets\js\jquery.colorbox.min.js
-wp-content\plugins\blocks-for-documents-articles-and-faqs\assets\css\blocks.style.min.css
-wp-content\plugins\echo-knowledge-base\css\public-styles.min.css
-wp-content\plugins\echo-knowledge-base\js\public-scripts.min.js
-wp-content\plugins\echo-knowledge-base\js\lib\materialize.min.js
-wp-content\plugins\enlighter\cache\enlighterjs.min.css
-wp-content\plugins\enlighter\cache\enlighterjs.min.js
-wp-content\plugins\gallery-block-lightbox\dist\baguetteBox.min.css
-wp-content\plugins\gallery-block-lightbox\dist\baguetteBox.min.js
-wp-content\plugins\hayyabuild\public\assets\css\style.min.css
-wp-content\plugins\hayyabuild\public\assets\js\hayyabuild.min.js
-wp-content\plugins\hayyabuild\public\assets\vendor\leaflet\images\layers.png
-wp-content\plugins\hayyabuild\public\assets\vendor\leaflet\images\layers-2x.png
-wp-content\plugins\hayyabuild\public\assets\vendor\leaflet\images\marker-icon.png
-wp-content\plugins\iks-menu\assets\css\public.css
-wp-content\plugins\iks-menu\assets\js\menu.js
-wp-content\plugins\iks-menu\assets\js\public.js
-wp-content\plugins\ocean-extra\assets\css\widgets.css
-wp-content\plugins\ocean-extra\assets\img\flickr.png
-wp-content\plugins\ocean-extra\assets\img\instagram-logo.png
-wp-content\plugins\top-10\includes\js\top-10-tracker.min.js
-wp-content\themes\oceanwp\assets\css\style.min.css
-wp-content\themes\oceanwp\assets\css\third\simple-line-icons.min.css
-wp-content\themes\oceanwp\assets\fonts\fontawesome\css\all.min.css
-wp-content\themes\oceanwp\assets\js\theme.vanilla.min.js
-wp-content\themes\oceanwp\assets\js\vendors\flickity.pkgd.min.js
-wp-content\themes\oceanwp\assets\js\vendors\isotope.pkgd.min.js
-wp-content\themes\oceanwp\assets\js\vendors\magnific-popup.min.js
-wp-content\themes\oceanwp\assets\js\vendors\sidr.js
-wp-content\themes\oceanwp\assets\js\vendors\smoothscroll.min.js
-wp-content\themes\oceanwp\inc\customizer\assets\css\fontawesome-all.min.css
+wp-content\cache\wpo-minify\1638479006\assets\wpo-minify-footer-1e1918c2.min.css
+wp-content\cache\wpo-minify\1638479006\assets\wpo-minify-footer-23c232fe.min.js
+wp-content\cache\wpo-minify\1638479006\assets\wpo-minify-footer-25d738b8.min.js
+wp-content\cache\wpo-minify\1638479006\assets\wpo-minify-footer-322411a9.min.css
+wp-content\cache\wpo-minify\1638479006\assets\wpo-minify-footer-38913e58.min.js
+wp-content\cache\wpo-minify\1638479006\assets\wpo-minify-footer-68320ed3.min.js
+wp-content\cache\wpo-minify\1638479006\assets\wpo-minify-footer-7d3a08c2.min.js
+wp-content\cache\wpo-minify\1638479006\assets\wpo-minify-footer-86f11d49.min.css
+wp-content\cache\wpo-minify\1638479006\assets\wpo-minify-footer-c8140fbd.min.css
+wp-content\cache\wpo-minify\1638479006\assets\wpo-minify-footer-cfa1389e.min.js
+wp-content\cache\wpo-minify\1638479006\assets\wpo-minify-footer-dae21b31.min.css
+wp-content\cache\wpo-minify\1638479006\assets\wpo-minify-header-080540d7.min.js
+wp-content\cache\wpo-minify\1638479006\assets\wpo-minify-header-097b6179.min.css
+wp-content\cache\wpo-minify\1638479006\assets\wpo-minify-header-3cee29d4.min.js
+wp-content\cache\wpo-minify\1638479006\assets\wpo-minify-header-49035a49.min.css
+wp-content\cache\wpo-minify\1638479006\assets\wpo-minify-header-51225232.min.css
+wp-content\cache\wpo-minify\1638479006\assets\wpo-minify-header-6c0a60ff.min.css
+wp-content\cache\wpo-minify\1638479006\assets\wpo-minify-header-6c3b5962.min.css
+wp-content\plugins\hayyabuild\public\assets\css\index.html
 HHC5003: Error: Compilation failed while compiling wp-content\uploads\2021\10\2021-10-06-12_05_06-Add-New-Article-GÇ¦-eSuite-Documentation-GÇö-WordPress-Personal-MicrosoftGÇï-Edge.png.
 HHC5003: Error: Compilation failed while compiling wp-content\uploads\2021\10\2021-10-06-12_05_06-Add-New-Article-GÇ¦-eSuite-Documentation-GÇö-WordPress-Personal-MicrosoftGÇï-Edge-300x208.png.
 HHC5003: Error: Compilation failed while compiling wp-content\uploads\2021\10\2021-10-06-12_05_06-Add-New-Article-GÇ¦-eSuite-Documentation-GÇö-WordPress-Personal-MicrosoftGÇï-Edge-768x533.png.
@@ -492,71 +469,19 @@ wp-content\uploads\2021\10\Pasted-7.png
 wp-content\uploads\2021\10\Pasted-8.png
 wp-content\uploads\2021\10\Pasted-9.png
 wp-content\uploads\2021\10\Pasted-9-300x71.png
-wp-includes\css\dashicons.min.css
-wp-includes\css\dist\block-library\style.min.css
-wp-includes\js\imagesloaded.min.js
-wp-includes\js\wp-embed.min.js
-wp-includes\js\jquery\jquery.min.js
-wp-includes\js\jquery\jquery-migrate.min.js
 sms-help-v4.hhk
 HHC5003: Error: Compilation failed while compiling feed\.
 HHC5003: Error: Compilation failed while compiling comments\feed\.
 wp-includes\wlwmanifest.xml
-HHC5003: Error: Compilation failed while compiling privacy-policy\.
 HHC5003: Error: Compilation failed while compiling advanced-features\.
+HHC5003: Error: Compilation failed while compiling privacy-policy\.
 HHC5003: Error: Compilation failed while compiling contact-support\.
-HHC5003: Error: Compilation failed while compiling knowledge-base\category\get-started-with-loc-esuite\faqs\.
-HHC5003: Error: Compilation failed while compiling knowledge-base\get-started-with-loc-esuite\faqs\kb-editor-feature-demo\.
-HHC5003: Error: Compilation failed while compiling knowledge-base\get-started-with-loc-esuite\faqs\loc-sms-version-4-overview\.
-HHC5003: Error: Compilation failed while compiling knowledge-base\get-started-with-loc-esuite\faqs\about-kb-add-ons\.
-HHC5003: Error: Compilation failed while compiling knowledge-base\get-started-with-loc-esuite\faqs\release-notes\.
-HHC5003: Error: Compilation failed while compiling knowledge-base\get-started-with-loc-esuite\faqs\version-history\.
-HHC5003: Error: Compilation failed while compiling knowledge-base\category\get-started-with-loc-esuite\installation\.
-HHC5003: Error: Compilation failed while compiling knowledge-base\get-started-with-loc-esuite\installation\additional-information\.
-HHC5003: Error: Compilation failed while compiling knowledge-base\get-started-with-loc-esuite\installation\quick-start-guide\.
-HHC5003: Error: Compilation failed while compiling knowledge-base\get-started-with-loc-esuite\installation\smshttps-service-installation\.
-HHC5003: Error: Compilation failed while compiling knowledge-base\get-started-with-loc-esuite\installation\your-next-steps\.
-HHC5003: Error: Compilation failed while compiling knowledge-base\category\get-started-with-loc-esuite\upgrade-to-the-latest-version-of-esuite\.
-HHC5003: Error: Compilation failed while compiling knowledge-base\category\manual\ecommerce\.
-HHC5003: Error: Compilation failed while compiling knowledge-base\manual\ecommerce\ecommerce-estore-application\.
-HHC5003: Error: Compilation failed while compiling knowledge-base\category\manual\ekiosk\.
-HHC5003: Error: Compilation failed while compiling knowledge-base\manual\ekiosk\ekiosk-overview\.
-HHC5003: Error: Compilation failed while compiling knowledge-base\manual\ekiosk\ekiosk-products\.
-HHC5003: Error: Compilation failed while compiling knowledge-base\category\manual\esuite\.
-HHC5003: Error: Compilation failed while compiling knowledge-base\manual\esuite\article-b\.
-HHC5003: Error: Compilation failed while compiling knowledge-base\manual\esuite\esuite-care\dimensions-care\esuite-dimensions-overview\.
-HHC5003: Error: Compilation failed while compiling knowledge-base\manual\esuite\esuite-buy\items-buy\esuite-items-overview\.
-HHC5003: Error: Compilation failed while compiling knowledge-base\manual\esuite\esuite-care\esuite-care-report-requirements\.
-HHC5003: Error: Compilation failed while compiling knowledge-base\manual\esuite\esuite-care\customers-care\esuite-customers-overview\.
-HHC5003: Error: Compilation failed while compiling knowledge-base\manual\esuite\esuite-system\scheduler\esuite-system-scheduler-grid\.
-HHC5003: Error: Compilation failed while compiling knowledge-base\manual\esuite\shared\esuite-navigation\.
-HHC5003: Error: Compilation failed while compiling knowledge-base\manual\esuite\shared\esuite-search-wizards\.
-HHC5003: Error: Compilation failed while compiling knowledge-base\category\manual\mfloor\.
-HHC5003: Error: Compilation failed while compiling knowledge-base\manual\mfloor\mfloor-overview\.
-HHC5003: Error: Compilation failed while compiling knowledge-base\manual\mfloor\mfloor-recommendations\.
-HHC5003: Error: Compilation failed while compiling knowledge-base\category\manual\config-files\.
-HHC5003: Error: Compilation failed while compiling knowledge-base\manual\config-files\smsinstall-ini-update-ini-and-version-ini-files\.
-HHC5003: Error: Compilation failed while compiling knowledge-base\manual\config-files\smsstart-ini-file\.
-HHC5003: Error: Compilation failed while compiling knowledge-base\category\guides-and-tutorials\back-store\.
-HHC5003: Error: Compilation failed while compiling knowledge-base\guides-and-tutorials\back-store\article-c\.
-HHC5003: Error: Compilation failed while compiling knowledge-base\category\guides-and-tutorials\customer-care\.
-HHC5003: Error: Compilation failed while compiling knowledge-base\guides-and-tutorials\customer-care\esuite-how-to-add-shopper-discounts-by-sub-department\.
-HHC5003: Error: Compilation failed while compiling knowledge-base\category\guides-and-tutorials\fuel\.
-HHC5003: Error: Compilation failed while compiling knowledge-base\guides-and-tutorials\fuel\how-to-setup-a-fuel-pump\.
-HHC5003: Error: Compilation failed while compiling knowledge-base\category\guides-and-tutorials\inventory\.
-HHC5003: Error: Compilation failed while compiling knowledge-base\category\guides-and-tutorials\staff\.
-HHC5003: Error: Compilation failed while compiling knowledge-base\category\guides-and-tutorials\store\.
-HHC5003: Error: Compilation failed while compiling knowledge-base\category\administration\database\.
-HHC5003: Error: Compilation failed while compiling knowledge-base\administration\database\sql-server-best-practices-and-performance-issues\.
-HHC5003: Error: Compilation failed while compiling knowledge-base\category\administration\maintenance\.
-HHC5003: Error: Compilation failed while compiling knowledge-base\administration\maintenance\category-hierarchy-and-tabs-layout\.
-HHC5003: Error: Compilation failed while compiling knowledge-base\administration\maintenance\how-to-manage-urgent-host-messages\.
-HHC5003: Error: Compilation failed while compiling knowledge-base\category\administration\applications\.
-HHC5003: Error: Compilation failed while compiling knowledge-base\administration\applications\apixchftp\test-document\.
-HHC5003: Error: Compilation failed while compiling knowledge-base\category\administration\known-issues\.
-HHC5003: Error: Compilation failed while compiling knowledge-base\administration\known-issues\issue-with-installs-on-windows-8-1-or-windows-server-2012-r2\.
 HHC5003: Error: Compilation failed while compiling knowledge-base\category\get-started-with-loc-esuite\.
+HHC5003: Error: Compilation failed while compiling knowledge-base\category\get-started-with-loc-esuite\installation\.
+HHC5003: Error: Compilation failed while compiling knowledge-base\category\get-started-with-loc-esuite\faqs\.
+HHC5003: Error: Compilation failed while compiling knowledge-base\category\get-started-with-loc-esuite\upgrade-to-the-latest-version-of-esuite\.
 HHC5003: Error: Compilation failed while compiling knowledge-base\category\manual\.
+HHC5003: Error: Compilation failed while compiling knowledge-base\category\manual\esuite\.
 HHC5003: Error: Compilation failed while compiling knowledge-base\category\manual\esuite\esuite-care\.
 HHC5003: Error: Compilation failed while compiling knowledge-base\category\manual\esuite\esuite-care\customers-care\.
 HHC5003: Error: Compilation failed while compiling knowledge-base\category\manual\esuite\esuite-care\dimensions-care\.
@@ -577,8 +502,21 @@ HHC5003: Error: Compilation failed while compiling knowledge-base\category\manua
 HHC5003: Error: Compilation failed while compiling knowledge-base\category\manual\esuite\esuite-system\.
 HHC5003: Error: Compilation failed while compiling knowledge-base\category\manual\esuite\esuite-system\scheduler\.
 HHC5003: Error: Compilation failed while compiling knowledge-base\category\manual\esuite\shared\.
+HHC5003: Error: Compilation failed while compiling knowledge-base\category\manual\ecommerce\.
+HHC5003: Error: Compilation failed while compiling knowledge-base\category\manual\mfloor\.
+HHC5003: Error: Compilation failed while compiling knowledge-base\category\manual\ekiosk\.
+HHC5003: Error: Compilation failed while compiling knowledge-base\category\manual\config-files\.
 HHC5003: Error: Compilation failed while compiling knowledge-base\category\guides-and-tutorials\.
+HHC5003: Error: Compilation failed while compiling knowledge-base\category\guides-and-tutorials\back-store\.
+HHC5003: Error: Compilation failed while compiling knowledge-base\category\guides-and-tutorials\store\.
+HHC5003: Error: Compilation failed while compiling knowledge-base\category\guides-and-tutorials\fuel\.
+HHC5003: Error: Compilation failed while compiling knowledge-base\category\guides-and-tutorials\customer-care\.
+HHC5003: Error: Compilation failed while compiling knowledge-base\category\guides-and-tutorials\inventory\.
+HHC5003: Error: Compilation failed while compiling knowledge-base\category\guides-and-tutorials\staff\.
 HHC5003: Error: Compilation failed while compiling knowledge-base\category\administration\.
+HHC5003: Error: Compilation failed while compiling knowledge-base\category\administration\maintenance\.
+HHC5003: Error: Compilation failed while compiling knowledge-base\category\administration\database\.
+HHC5003: Error: Compilation failed while compiling knowledge-base\category\administration\applications\.
 HHC5003: Error: Compilation failed while compiling knowledge-base\category\administration\applications\sms-certificate-utility\.
 HHC5003: Error: Compilation failed while compiling knowledge-base\category\administration\applications\smscli\.
 HHC5003: Error: Compilation failed while compiling knowledge-base\category\administration\applications\smsdevice\.
@@ -586,7 +524,23 @@ HHC5003: Error: Compilation failed while compiling knowledge-base\category\admin
 HHC5003: Error: Compilation failed while compiling knowledge-base\category\administration\applications\smsnetservice\.
 HHC5003: Error: Compilation failed while compiling knowledge-base\category\administration\applications\smsziplibrary\.
 HHC5003: Error: Compilation failed while compiling knowledge-base\category\administration\applications\apixchftp\.
+HHC5003: Error: Compilation failed while compiling knowledge-base\category\administration\known-issues\.
+HHC5003: Error: Compilation failed while compiling knowledge-base\get-started-with-loc-esuite\faqs\kb-editor-feature-demo\.
+HHC5003: Error: Compilation failed while compiling knowledge-base\get-started-with-loc-esuite\faqs\version-history\.
+HHC5003: Error: Compilation failed while compiling knowledge-base\get-started-with-loc-esuite\installation\additional-information\.
+HHC5003: Error: Compilation failed while compiling knowledge-base\manual\ecommerce\ecommerce-estore-application\.
+HHC5003: Error: Compilation failed while compiling knowledge-base\manual\ekiosk\ekiosk-overview\.
+HHC5003: Error: Compilation failed while compiling knowledge-base\get-started-with-loc-esuite\installation\quick-start-guide\.
+HHC5003: Error: Compilation failed while compiling knowledge-base\manual\config-files\smsstart-ini-file\.
+HHC5003: Error: Compilation failed while compiling knowledge-base\guides-and-tutorials\customer-care\esuite-how-to-add-shopper-discounts-by-sub-department\.
+HHC5003: Error: Compilation failed while compiling knowledge-base\get-started-with-loc-esuite\faqs\release-notes\.
+HHC5003: Error: Compilation failed while compiling knowledge-base\manual\esuite\esuite-care\customers-care\esuite-customers-overview\.
 HHC5003: Error: Compilation failed while compiling author\dava-loc\feed\.
+HHC5003: Error: Compilation failed while compiling knowledge-base\administration\applications\apixchftp\test-document\.
+HHC5003: Error: Compilation failed while compiling knowledge-base\administration\database\sql-server-best-practices-and-performance-issues\.
+HHC5003: Error: Compilation failed while compiling knowledge-base\administration\known-issues\issue-with-installs-on-windows-8-1-or-windows-server-2012-r2\.
+HHC5003: Error: Compilation failed while compiling knowledge-base\administration\maintenance\category-hierarchy-and-tabs-layout\.
+HHC5003: Error: Compilation failed while compiling knowledge-base\administration\maintenance\how-to-manage-urgent-host-messages\.
 HHC5003: Error: Compilation failed while compiling knowledge-base\category\administration\feed\.
 HHC5003: Error: Compilation failed while compiling knowledge-base\category\administration\applications\feed\.
 HHC5003: Error: Compilation failed while compiling knowledge-base\category\administration\applications\apixchftp\feed\.
@@ -600,10 +554,16 @@ HHC5003: Error: Compilation failed while compiling knowledge-base\category\admin
 HHC5003: Error: Compilation failed while compiling knowledge-base\category\administration\known-issues\feed\.
 HHC5003: Error: Compilation failed while compiling knowledge-base\category\administration\maintenance\feed\.
 HHC5003: Error: Compilation failed while compiling knowledge-base\category\get-started-with-loc-esuite\feed\.
+HHC5003: Error: Compilation failed while compiling knowledge-base\get-started-with-loc-esuite\faqs\loc-sms-version-4-overview\.
+HHC5003: Error: Compilation failed while compiling knowledge-base\get-started-with-loc-esuite\faqs\about-kb-add-ons\.
+HHC5003: Error: Compilation failed while compiling knowledge-base\get-started-with-loc-esuite\installation\smshttps-service-installation\.
+HHC5003: Error: Compilation failed while compiling knowledge-base\get-started-with-loc-esuite\installation\your-next-steps\.
 HHC5003: Error: Compilation failed while compiling knowledge-base\category\get-started-with-loc-esuite\faqs\feed\.
 HHC5003: Error: Compilation failed while compiling knowledge-base\category\get-started-with-loc-esuite\installation\feed\.
 HHC5003: Error: Compilation failed while compiling knowledge-base\category\get-started-with-loc-esuite\upgrade-to-the-latest-version-of-esuite\feed\.
 HHC5003: Error: Compilation failed while compiling knowledge-base\category\guides-and-tutorials\feed\.
+HHC5003: Error: Compilation failed while compiling knowledge-base\guides-and-tutorials\back-store\article-c\.
+HHC5003: Error: Compilation failed while compiling knowledge-base\guides-and-tutorials\fuel\how-to-setup-a-fuel-pump\.
 HHC5003: Error: Compilation failed while compiling knowledge-base\category\guides-and-tutorials\back-store\feed\.
 HHC5003: Error: Compilation failed while compiling knowledge-base\category\guides-and-tutorials\customer-care\feed\.
 HHC5003: Error: Compilation failed while compiling knowledge-base\category\guides-and-tutorials\fuel\feed\.
@@ -611,11 +571,20 @@ HHC5003: Error: Compilation failed while compiling knowledge-base\category\guide
 HHC5003: Error: Compilation failed while compiling knowledge-base\category\guides-and-tutorials\staff\feed\.
 HHC5003: Error: Compilation failed while compiling knowledge-base\category\guides-and-tutorials\store\feed\.
 HHC5003: Error: Compilation failed while compiling knowledge-base\category\manual\feed\.
+HHC5003: Error: Compilation failed while compiling knowledge-base\manual\ekiosk\ekiosk-products\.
+HHC5003: Error: Compilation failed while compiling knowledge-base\manual\esuite\esuite-care\esuite-care-report-requirements\.
+HHC5003: Error: Compilation failed while compiling knowledge-base\manual\esuite\esuite-care\dimensions-care\esuite-dimensions-overview\.
+HHC5003: Error: Compilation failed while compiling knowledge-base\manual\esuite\esuite-buy\items-buy\esuite-items-overview\.
+HHC5003: Error: Compilation failed while compiling knowledge-base\manual\esuite\shared\esuite-navigation\.
+HHC5003: Error: Compilation failed while compiling knowledge-base\manual\esuite\article-b\.
+HHC5003: Error: Compilation failed while compiling knowledge-base\manual\esuite\shared\esuite-search-wizards\.
 HHC5003: Error: Compilation failed while compiling knowledge-base\category\manual\page\2\.
 HHC5003: Error: Compilation failed while compiling knowledge-base\category\manual\config-files\feed\.
+HHC5003: Error: Compilation failed while compiling knowledge-base\manual\config-files\smsinstall-ini-update-ini-and-version-ini-files\.
 HHC5003: Error: Compilation failed while compiling knowledge-base\category\manual\ecommerce\feed\.
 HHC5003: Error: Compilation failed while compiling knowledge-base\category\manual\ekiosk\feed\.
 HHC5003: Error: Compilation failed while compiling knowledge-base\category\manual\esuite\feed\.
+HHC5003: Error: Compilation failed while compiling knowledge-base\manual\esuite\esuite-system\scheduler\esuite-system-scheduler-grid\.
 HHC5003: Error: Compilation failed while compiling knowledge-base\category\manual\esuite\esuite-batch\feed\.
 HHC5003: Error: Compilation failed while compiling knowledge-base\category\manual\esuite\esuite-batch\dimensions-batch\feed\.
 HHC5003: Error: Compilation failed while compiling knowledge-base\category\manual\esuite\esuite-buy\feed\.
@@ -637,6 +606,8 @@ HHC5003: Error: Compilation failed while compiling knowledge-base\category\manua
 HHC5003: Error: Compilation failed while compiling knowledge-base\category\manual\esuite\esuite-system\scheduler\feed\.
 HHC5003: Error: Compilation failed while compiling knowledge-base\category\manual\esuite\shared\feed\.
 HHC5003: Error: Compilation failed while compiling knowledge-base\category\manual\mfloor\feed\.
+HHC5003: Error: Compilation failed while compiling knowledge-base\manual\mfloor\mfloor-overview\.
+HHC5003: Error: Compilation failed while compiling knowledge-base\manual\mfloor\mfloor-recommendations\.
 HHC5003: Error: Compilation failed while compiling knowledge-base\tag\information\.
 HHC5003: Error: Compilation failed while compiling knowledge-base\tag\split\.
 HHC5003: Error: Compilation failed while compiling knowledge-base\tag\information\feed\.
@@ -651,61 +622,15 @@ wp-content\uploads\2021\10\2021-10-06-12_05_06-Add-New-Article-GÇ¦-eSuite-Docume
 wp-content\uploads\2021\10\2021-10-06-12_05_06-Add-New-Article-GÇ¦-eSuite-Documentation-GÇö-WordPress-Personal-MicrosoftGÇï-Edge-768x533.png
 feed\
 comments\feed\
-privacy-policy\
 advanced-features\
+privacy-policy\
 contact-support\
-knowledge-base\category\get-started-with-loc-esuite\faqs\
-knowledge-base\get-started-with-loc-esuite\faqs\kb-editor-feature-demo\
-knowledge-base\get-started-with-loc-esuite\faqs\loc-sms-version-4-overview\
-knowledge-base\get-started-with-loc-esuite\faqs\about-kb-add-ons\
-knowledge-base\get-started-with-loc-esuite\faqs\release-notes\
-knowledge-base\get-started-with-loc-esuite\faqs\version-history\
-knowledge-base\category\get-started-with-loc-esuite\installation\
-knowledge-base\get-started-with-loc-esuite\installation\additional-information\
-knowledge-base\get-started-with-loc-esuite\installation\quick-start-guide\
-knowledge-base\get-started-with-loc-esuite\installation\smshttps-service-installation\
-knowledge-base\get-started-with-loc-esuite\installation\your-next-steps\
-knowledge-base\category\get-started-with-loc-esuite\upgrade-to-the-latest-version-of-esuite\
-knowledge-base\category\manual\ecommerce\
-knowledge-base\manual\ecommerce\ecommerce-estore-application\
-knowledge-base\category\manual\ekiosk\
-knowledge-base\manual\ekiosk\ekiosk-overview\
-knowledge-base\manual\ekiosk\ekiosk-products\
-knowledge-base\category\manual\esuite\
-knowledge-base\manual\esuite\article-b\
-knowledge-base\manual\esuite\esuite-care\dimensions-care\esuite-dimensions-overview\
-knowledge-base\manual\esuite\esuite-buy\items-buy\esuite-items-overview\
-knowledge-base\manual\esuite\esuite-care\esuite-care-report-requirements\
-knowledge-base\manual\esuite\esuite-care\customers-care\esuite-customers-overview\
-knowledge-base\manual\esuite\esuite-system\scheduler\esuite-system-scheduler-grid\
-knowledge-base\manual\esuite\shared\esuite-navigation\
-knowledge-base\manual\esuite\shared\esuite-search-wizards\
-knowledge-base\category\manual\mfloor\
-knowledge-base\manual\mfloor\mfloor-overview\
-knowledge-base\manual\mfloor\mfloor-recommendations\
-knowledge-base\category\manual\config-files\
-knowledge-base\manual\config-files\smsinstall-ini-update-ini-and-version-ini-files\
-knowledge-base\manual\config-files\smsstart-ini-file\
-knowledge-base\category\guides-and-tutorials\back-store\
-knowledge-base\guides-and-tutorials\back-store\article-c\
-knowledge-base\category\guides-and-tutorials\customer-care\
-knowledge-base\guides-and-tutorials\customer-care\esuite-how-to-add-shopper-discounts-by-sub-department\
-knowledge-base\category\guides-and-tutorials\fuel\
-knowledge-base\guides-and-tutorials\fuel\how-to-setup-a-fuel-pump\
-knowledge-base\category\guides-and-tutorials\inventory\
-knowledge-base\category\guides-and-tutorials\staff\
-knowledge-base\category\guides-and-tutorials\store\
-knowledge-base\category\administration\database\
-knowledge-base\administration\database\sql-server-best-practices-and-performance-issues\
-knowledge-base\category\administration\maintenance\
-knowledge-base\administration\maintenance\category-hierarchy-and-tabs-layout\
-knowledge-base\administration\maintenance\how-to-manage-urgent-host-messages\
-knowledge-base\category\administration\applications\
-knowledge-base\administration\applications\apixchftp\test-document\
-knowledge-base\category\administration\known-issues\
-knowledge-base\administration\known-issues\issue-with-installs-on-windows-8-1-or-windows-server-2012-r2\
 knowledge-base\category\get-started-with-loc-esuite\
+knowledge-base\category\get-started-with-loc-esuite\installation\
+knowledge-base\category\get-started-with-loc-esuite\faqs\
+knowledge-base\category\get-started-with-loc-esuite\upgrade-to-the-latest-version-of-esuite\
 knowledge-base\category\manual\
+knowledge-base\category\manual\esuite\
 knowledge-base\category\manual\esuite\esuite-care\
 knowledge-base\category\manual\esuite\esuite-care\customers-care\
 knowledge-base\category\manual\esuite\esuite-care\dimensions-care\
@@ -726,8 +651,21 @@ knowledge-base\category\manual\esuite\esuite-manage\items-manage\
 knowledge-base\category\manual\esuite\esuite-system\
 knowledge-base\category\manual\esuite\esuite-system\scheduler\
 knowledge-base\category\manual\esuite\shared\
+knowledge-base\category\manual\ecommerce\
+knowledge-base\category\manual\mfloor\
+knowledge-base\category\manual\ekiosk\
+knowledge-base\category\manual\config-files\
 knowledge-base\category\guides-and-tutorials\
+knowledge-base\category\guides-and-tutorials\back-store\
+knowledge-base\category\guides-and-tutorials\store\
+knowledge-base\category\guides-and-tutorials\fuel\
+knowledge-base\category\guides-and-tutorials\customer-care\
+knowledge-base\category\guides-and-tutorials\inventory\
+knowledge-base\category\guides-and-tutorials\staff\
 knowledge-base\category\administration\
+knowledge-base\category\administration\maintenance\
+knowledge-base\category\administration\database\
+knowledge-base\category\administration\applications\
 knowledge-base\category\administration\applications\sms-certificate-utility\
 knowledge-base\category\administration\applications\smscli\
 knowledge-base\category\administration\applications\smsdevice\
@@ -735,7 +673,23 @@ knowledge-base\category\administration\applications\smshttps\
 knowledge-base\category\administration\applications\smsnetservice\
 knowledge-base\category\administration\applications\smsziplibrary\
 knowledge-base\category\administration\applications\apixchftp\
+knowledge-base\category\administration\known-issues\
+knowledge-base\get-started-with-loc-esuite\faqs\kb-editor-feature-demo\
+knowledge-base\get-started-with-loc-esuite\faqs\version-history\
+knowledge-base\get-started-with-loc-esuite\installation\additional-information\
+knowledge-base\manual\ecommerce\ecommerce-estore-application\
+knowledge-base\manual\ekiosk\ekiosk-overview\
+knowledge-base\get-started-with-loc-esuite\installation\quick-start-guide\
+knowledge-base\manual\config-files\smsstart-ini-file\
+knowledge-base\guides-and-tutorials\customer-care\esuite-how-to-add-shopper-discounts-by-sub-department\
+knowledge-base\get-started-with-loc-esuite\faqs\release-notes\
+knowledge-base\manual\esuite\esuite-care\customers-care\esuite-customers-overview\
 author\dava-loc\feed\
+knowledge-base\administration\applications\apixchftp\test-document\
+knowledge-base\administration\database\sql-server-best-practices-and-performance-issues\
+knowledge-base\administration\known-issues\issue-with-installs-on-windows-8-1-or-windows-server-2012-r2\
+knowledge-base\administration\maintenance\category-hierarchy-and-tabs-layout\
+knowledge-base\administration\maintenance\how-to-manage-urgent-host-messages\
 knowledge-base\category\administration\feed\
 knowledge-base\category\administration\applications\feed\
 knowledge-base\category\administration\applications\apixchftp\feed\
@@ -749,10 +703,16 @@ knowledge-base\category\administration\database\feed\
 knowledge-base\category\administration\known-issues\feed\
 knowledge-base\category\administration\maintenance\feed\
 knowledge-base\category\get-started-with-loc-esuite\feed\
+knowledge-base\get-started-with-loc-esuite\faqs\loc-sms-version-4-overview\
+knowledge-base\get-started-with-loc-esuite\faqs\about-kb-add-ons\
+knowledge-base\get-started-with-loc-esuite\installation\smshttps-service-installation\
+knowledge-base\get-started-with-loc-esuite\installation\your-next-steps\
 knowledge-base\category\get-started-with-loc-esuite\faqs\feed\
 knowledge-base\category\get-started-with-loc-esuite\installation\feed\
 knowledge-base\category\get-started-with-loc-esuite\upgrade-to-the-latest-version-of-esuite\feed\
 knowledge-base\category\guides-and-tutorials\feed\
+knowledge-base\guides-and-tutorials\back-store\article-c\
+knowledge-base\guides-and-tutorials\fuel\how-to-setup-a-fuel-pump\
 knowledge-base\category\guides-and-tutorials\back-store\feed\
 knowledge-base\category\guides-and-tutorials\customer-care\feed\
 knowledge-base\category\guides-and-tutorials\fuel\feed\
@@ -760,11 +720,20 @@ knowledge-base\category\guides-and-tutorials\inventory\feed\
 knowledge-base\category\guides-and-tutorials\staff\feed\
 knowledge-base\category\guides-and-tutorials\store\feed\
 knowledge-base\category\manual\feed\
+knowledge-base\manual\ekiosk\ekiosk-products\
+knowledge-base\manual\esuite\esuite-care\esuite-care-report-requirements\
+knowledge-base\manual\esuite\esuite-care\dimensions-care\esuite-dimensions-overview\
+knowledge-base\manual\esuite\esuite-buy\items-buy\esuite-items-overview\
+knowledge-base\manual\esuite\shared\esuite-navigation\
+knowledge-base\manual\esuite\article-b\
+knowledge-base\manual\esuite\shared\esuite-search-wizards\
 knowledge-base\category\manual\page\2\
 knowledge-base\category\manual\config-files\feed\
+knowledge-base\manual\config-files\smsinstall-ini-update-ini-and-version-ini-files\
 knowledge-base\category\manual\ecommerce\feed\
 knowledge-base\category\manual\ekiosk\feed\
 knowledge-base\category\manual\esuite\feed\
+knowledge-base\manual\esuite\esuite-system\scheduler\esuite-system-scheduler-grid\
 knowledge-base\category\manual\esuite\esuite-batch\feed\
 knowledge-base\category\manual\esuite\esuite-batch\dimensions-batch\feed\
 knowledge-base\category\manual\esuite\esuite-buy\feed\
@@ -786,6 +755,8 @@ knowledge-base\category\manual\esuite\esuite-system\feed\
 knowledge-base\category\manual\esuite\esuite-system\scheduler\feed\
 knowledge-base\category\manual\esuite\shared\feed\
 knowledge-base\category\manual\mfloor\feed\
+knowledge-base\manual\mfloor\mfloor-overview\
+knowledge-base\manual\mfloor\mfloor-recommendations\
 knowledge-base\tag\information\
 knowledge-base\tag\split\
 knowledge-base\tag\information\feed\
