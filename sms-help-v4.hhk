@@ -1,0 +1,458 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="generator" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!-- Sitemap 1.0 -->
+</head>
+<body>
+<OBJECT type="text/site properties">
+</OBJECT>
+<UL>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="Administration &#8211; LOC SMS Help">
+            <param name="Name" value="Administration &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/category/administration/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="Advanced features &#8211; LOC SMS Help">
+            <param name="Name" value="Advanced features &#8211; LOC SMS Help">
+            <param name="Local" value="advanced-features/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="ApiXchFTP &#8211; LOC SMS Help">
+            <param name="Name" value="ApiXchFTP &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/category/administration/applications/apixchftp/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="Applications &#8211; LOC SMS Help">
+            <param name="Name" value="Applications &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/category/administration/applications/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="Article C &#8211; LOC SMS Help">
+            <param name="Name" value="Article C &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/guides-and-tutorials/back-store/article-c/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="Back Store &#8211; LOC SMS Help">
+            <param name="Name" value="Back Store &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/category/guides-and-tutorials/back-store/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="Before you begin &#8211; LOC SMS Help">
+            <param name="Name" value="Before you begin &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/category/get-started-with-loc-esuite/faqs/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="Category Hierarchy and Tabs Layout &#8211; LOC SMS Help">
+            <param name="Name" value="Category Hierarchy and Tabs Layout &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/administration/maintenance/category-hierarchy-and-tabs-layout/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="Config files &#8211; LOC SMS Help">
+            <param name="Name" value="Config files &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/category/manual/config-files/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="Contact Support &#8211; LOC SMS Help">
+            <param name="Name" value="Contact Support &#8211; LOC SMS Help">
+            <param name="Local" value="contact-support/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="Customer Care &#8211; LOC SMS Help">
+            <param name="Name" value="Customer Care &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/category/guides-and-tutorials/customer-care/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="Customers &#8211; LOC SMS Help">
+            <param name="Name" value="Customers &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/category/manual/esuite/esuite-care/customers-care/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="Customers &#8211; LOC SMS Help">
+            <param name="Name" value="Customers &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/category/manual/esuite/esuite-manage/customers-manage/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="Customers &#8211; LOC SMS Help">
+            <param name="Name" value="Customers &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/category/manual/esuite/esuite-sell/customers-sell/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="Database &#8211; LOC SMS Help">
+            <param name="Name" value="Database &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/category/administration/database/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="dava-LOC &#8211; LOC SMS Help">
+            <param name="Name" value="dava-LOC &#8211; LOC SMS Help">
+            <param name="Local" value="author/dava-loc/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="Dimensions &#8211; LOC SMS Help">
+            <param name="Name" value="Dimensions &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/category/manual/esuite/esuite-care/dimensions-care/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="Dimensions &#8211; LOC SMS Help">
+            <param name="Name" value="Dimensions &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/category/manual/esuite/esuite-batch/dimensions-batch/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="Dimensions &#8211; LOC SMS Help">
+            <param name="Name" value="Dimensions &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/category/manual/esuite/esuite-buy/dimensions-buy/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="Dimensions &#8211; LOC SMS Help">
+            <param name="Name" value="Dimensions &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/category/manual/esuite/esuite-manage/dimensions-manage/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="Dimensions &#8211; LOC SMS Help">
+            <param name="Name" value="Dimensions &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/category/manual/esuite/esuite-sell/dimensions-sell/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="eCommerce &#8211; eStore Application &#8211; LOC SMS Help">
+            <param name="Name" value="eCommerce &#8211; eStore Application &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/manual/ecommerce/ecommerce-estore-application/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="eCommerce &#8211; LOC SMS Help">
+            <param name="Name" value="eCommerce &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/category/manual/ecommerce/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="eKiosk &#8211; LOC SMS Help">
+            <param name="Name" value="eKiosk &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/category/manual/ekiosk/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="eKiosk Overview &#8211; LOC SMS Help">
+            <param name="Name" value="eKiosk Overview &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/manual/ekiosk/ekiosk-overview/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="eKiosk Products Page &#8211; LOC SMS Help">
+            <param name="Name" value="eKiosk Products Page &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/manual/ekiosk/ekiosk-products/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="eSuite &#8211; LOC SMS Help">
+            <param name="Name" value="eSuite &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/category/manual/esuite/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="eSuite Batch &#8211; LOC SMS Help">
+            <param name="Name" value="eSuite Batch &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/category/manual/esuite/esuite-batch/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="eSuite Buy &#8211; LOC SMS Help">
+            <param name="Name" value="eSuite Buy &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/category/manual/esuite/esuite-buy/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="eSuite Care &#8211; LOC SMS Help">
+            <param name="Name" value="eSuite Care &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/category/manual/esuite/esuite-care/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="eSuite Care Report Requirements &#8211; LOC SMS Help">
+            <param name="Name" value="eSuite Care Report Requirements &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/manual/esuite/esuite-care/esuite-care-report-requirements/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="eSuite Customers Overview &#8211; LOC SMS Help">
+            <param name="Name" value="eSuite Customers Overview &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/manual/esuite/esuite-care/customers-care/esuite-customers-overview/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="eSuite Dimensions Overview &#8211; LOC SMS Help">
+            <param name="Name" value="eSuite Dimensions Overview &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/manual/esuite/esuite-care/dimensions-care/esuite-dimensions-overview/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="eSuite Items Overview &#8211; LOC SMS Help">
+            <param name="Name" value="eSuite Items Overview &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/manual/esuite/esuite-buy/items-buy/esuite-items-overview/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="eSuite Manage &#8211; LOC SMS Help">
+            <param name="Name" value="eSuite Manage &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/category/manual/esuite/esuite-manage/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="eSuite Navigation &#8211; LOC SMS Help">
+            <param name="Name" value="eSuite Navigation &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/manual/esuite/shared/esuite-navigation/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="eSuite Overview &#8211; LOC SMS Help">
+            <param name="Name" value="eSuite Overview &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/manual/esuite/article-b/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="eSuite Search Wizards &#8211; LOC SMS Help">
+            <param name="Name" value="eSuite Search Wizards &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/manual/esuite/shared/esuite-search-wizards/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="eSuite Sell &#8211; LOC SMS Help">
+            <param name="Name" value="eSuite Sell &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/category/manual/esuite/esuite-sell/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="eSuite System &#8211; LOC SMS Help">
+            <param name="Name" value="eSuite System &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/category/manual/esuite/esuite-system/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="eSuite System Scheduler Grid &#8211; LOC SMS Help">
+            <param name="Name" value="eSuite System Scheduler Grid &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/manual/esuite/esuite-system/scheduler/esuite-system-scheduler-grid/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="Fuel &#8211; LOC SMS Help">
+            <param name="Name" value="Fuel &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/category/guides-and-tutorials/fuel/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="Get Started &#8211; LOC SMS Help">
+            <param name="Name" value="Get Started &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/category/get-started-with-loc-esuite/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="Guides and Tutorials &#8211; LOC SMS Help">
+            <param name="Name" value="Guides and Tutorials &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/category/guides-and-tutorials/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="How to Add Shopper Discounts by Sub-Department &#8211; LOC SMS Help">
+            <param name="Name" value="How to Add Shopper Discounts by Sub-Department &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/guides-and-tutorials/customer-care/esuite-how-to-add-shopper-discounts-by-sub-department/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="How to Manage Urgent Host Messages &#8211; LOC SMS Help">
+            <param name="Name" value="How to Manage Urgent Host Messages &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/administration/maintenance/how-to-manage-urgent-host-messages/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="How to Setup a Fuel Pump &#8211; LOC SMS Help">
+            <param name="Name" value="How to Setup a Fuel Pump &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/guides-and-tutorials/fuel/how-to-setup-a-fuel-pump/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="How to Upgrade to SMS eSuite 4.5 &#8211; LOC SMS Help">
+            <param name="Name" value="How to Upgrade to SMS eSuite 4.5 &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/get-started-with-loc-esuite/installation/additional-information/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="information &#8211; LOC SMS Help">
+            <param name="Name" value="information &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/tag/information/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="Installation &#8211; LOC SMS Help">
+            <param name="Name" value="Installation &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/category/get-started-with-loc-esuite/installation/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="Inventory &#8211; LOC SMS Help">
+            <param name="Name" value="Inventory &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/category/guides-and-tutorials/inventory/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="Issue With Installs on Windows 8.1 or Windows Server 2012 R2 &#8211; LOC SMS Help">
+            <param name="Name" value="Issue With Installs on Windows 8.1 or Windows Server 2012 R2 &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/administration/known-issues/issue-with-installs-on-windows-8-1-or-windows-server-2012-r2/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="Items &#8211; LOC SMS Help">
+            <param name="Name" value="Items &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/category/manual/esuite/esuite-manage/items-manage/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="Items &#8211; LOC SMS Help">
+            <param name="Name" value="Items &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/category/manual/esuite/esuite-sell/items-sell/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="Items &#8211; LOC SMS Help">
+            <param name="Name" value="Items &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/category/manual/esuite/esuite-buy/items-buy/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="Items &#8211; LOC SMS Help">
+            <param name="Name" value="Items &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/category/manual/esuite/esuite-care/items-care/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="KB Editor Features Demo &#8211; LOC SMS Help">
+            <param name="Name" value="KB Editor Features Demo &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/get-started-with-loc-esuite/faqs/kb-editor-feature-demo/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="Known Issues &#8211; LOC SMS Help">
+            <param name="Name" value="Known Issues &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/category/administration/known-issues/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="LOC SMS Help">
+            <param name="Name" value="LOC SMS Help">
+            <param name="Local" value="index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="LOC SMS Version 4 Overview &#8211; LOC SMS Help">
+            <param name="Name" value="LOC SMS Version 4 Overview &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/get-started-with-loc-esuite/faqs/loc-sms-version-4-overview/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="Maintenance &#8211; LOC SMS Help">
+            <param name="Name" value="Maintenance &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/category/administration/maintenance/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="Manual &#8211; LOC SMS Help">
+            <param name="Name" value="Manual &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/category/manual/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="Manual &#8211; Page 2 &#8211; LOC SMS Help">
+            <param name="Name" value="Manual &#8211; Page 2 &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/category/manual/page/2/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="mFloor &#8211; LOC SMS Help">
+            <param name="Name" value="mFloor &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/category/manual/mfloor/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="mFloor Overview &#8211; LOC SMS Help">
+            <param name="Name" value="mFloor Overview &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/manual/mfloor/mfloor-overview/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="mFLoor Recommendations &#8211; LOC SMS Help">
+            <param name="Name" value="mFLoor Recommendations &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/manual/mfloor/mfloor-recommendations/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="PCI Guide &#8211; LOC SMS Help">
+            <param name="Name" value="PCI Guide &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/get-started-with-loc-esuite/faqs/about-kb-add-ons/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="Privacy Policy &#8211; LOC SMS Help">
+            <param name="Name" value="Privacy Policy &#8211; LOC SMS Help">
+            <param name="Local" value="privacy-policy/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="Quick Install &#8211; LOC SMS Help">
+            <param name="Name" value="Quick Install &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/get-started-with-loc-esuite/installation/quick-start-guide/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="Release Notes &#8211; LOC SMS Help">
+            <param name="Name" value="Release Notes &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/get-started-with-loc-esuite/faqs/release-notes/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="Scheduler &#8211; LOC SMS Help">
+            <param name="Name" value="Scheduler &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/category/manual/esuite/esuite-system/scheduler/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="Shared Functions and UI &#8211; LOC SMS Help">
+            <param name="Name" value="Shared Functions and UI &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/category/manual/esuite/shared/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="SMS Certificate Utility &#8211; LOC SMS Help">
+            <param name="Name" value="SMS Certificate Utility &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/category/administration/applications/sms-certificate-utility/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="SmsCli &#8211; LOC SMS Help">
+            <param name="Name" value="SmsCli &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/category/administration/applications/smscli/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="SMSDevice Service &#8211; LOC SMS Help">
+            <param name="Name" value="SMSDevice Service &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/category/administration/applications/smsdevice/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="SMSHTTPS Service &#8211; Installation &#8211; LOC SMS Help">
+            <param name="Name" value="SMSHTTPS Service &#8211; Installation &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/get-started-with-loc-esuite/installation/smshttps-service-installation/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="SMSHTTPS Service &#8211; LOC SMS Help">
+            <param name="Name" value="SMSHTTPS Service &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/category/administration/applications/smshttps/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="SMSInstall.ini, Update.ini and Version.ini files &#8211; LOC SMS Help">
+            <param name="Name" value="SMSInstall.ini, Update.ini and Version.ini files &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/manual/config-files/smsinstall-ini-update-ini-and-version-ini-files/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="SMSNetService &#8211; LOC SMS Help">
+            <param name="Name" value="SMSNetService &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/category/administration/applications/smsnetservice/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="SMSStart.ini file &#8211; LOC SMS Help">
+            <param name="Name" value="SMSStart.ini file &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/manual/config-files/smsstart-ini-file/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="SMSZipLibrary &#8211; LOC SMS Help">
+            <param name="Name" value="SMSZipLibrary &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/category/administration/applications/smsziplibrary/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="split &#8211; LOC SMS Help">
+            <param name="Name" value="split &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/tag/split/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="SQL Server Best Practices and Performance Issues &#8211; LOC SMS Help">
+            <param name="Name" value="SQL Server Best Practices and Performance Issues &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/administration/database/sql-server-best-practices-and-performance-issues/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="Staff &#8211; LOC SMS Help">
+            <param name="Name" value="Staff &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/category/guides-and-tutorials/staff/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="Store &#8211; LOC SMS Help">
+            <param name="Name" value="Store &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/category/guides-and-tutorials/store/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="Test document &#8211; LOC SMS Help">
+            <param name="Name" value="Test document &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/administration/applications/apixchftp/test-document/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="Upgrade &#8211; LOC SMS Help">
+            <param name="Name" value="Upgrade &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/category/get-started-with-loc-esuite/upgrade-to-the-latest-version-of-esuite/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="Version History &#8211; LOC SMS Help">
+            <param name="Name" value="Version History &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/get-started-with-loc-esuite/faqs/version-history/index.html">
+         </OBJECT>
+    <LI><OBJECT type="text/sitemap">
+            <param name="Name" value="Your Next Steps &#8211; LOC SMS Help">
+            <param name="Name" value="Your Next Steps &#8211; LOC SMS Help">
+            <param name="Local" value="knowledge-base/get-started-with-loc-esuite/installation/your-next-steps/index.html">
+         </OBJECT>
+</UL>
+</BODY>
+</HTML>

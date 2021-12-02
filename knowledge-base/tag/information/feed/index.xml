@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>information &#8211; LOC SMS Help</title>
+	<atom:link href="/knowledge-base/tag/information/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Wed, 13 Oct 2021 21:30:30 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/10/cropped-cropped-logoHD-imgonly-e1634052096442-32x32.png</url>
+	<title>information &#8211; LOC SMS Help</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Version History</title>
+		<link>/knowledge-base/get-started-with-loc-esuite/faqs/version-history/</link>
+		
+		<dc:creator><![CDATA[dava-LOC]]></dc:creator>
+		<pubDate>Fri, 08 Oct 2021 20:37:04 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=epkb_post_type_1&#038;p=258</guid>
+
+					<description><![CDATA[September 2021 Release — v4/350.13 Release Improvements&#160;&#160; All Option and plugin EXE and DLL files will now display the latest version, to eliminate&#160; confusion that you may be running mixed versions.&#160; eSuite specific training video updates to be released to the Community page&#160;&#160; SCO Parsing Doc available on the Community page&#160;&#160; eSuite Item&#160; New grid [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

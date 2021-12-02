@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>eKiosk &#8211; LOC SMS Help</title>
+	<atom:link href="/knowledge-base/category/manual/ekiosk/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Tue, 19 Oct 2021 15:00:45 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/10/cropped-cropped-logoHD-imgonly-e1634052096442-32x32.png</url>
+	<title>eKiosk &#8211; LOC SMS Help</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>eKiosk Products Page</title>
+		<link>/knowledge-base/manual/ekiosk/ekiosk-products/</link>
+		
+		<dc:creator><![CDATA[dava-LOC]]></dc:creator>
+		<pubDate>Wed, 13 Oct 2021 21:19:00 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=epkb_post_type_1&#038;p=429</guid>
+
+					<description><![CDATA[Information The Products page of the eKiosk allows the customer to view product&#8217;s information without having to do any purchase. It acts like a price checker. Products Features This section of the eKiosk contains certain features to help the customer to find his item quickly. Here is a list of what this page supports: Search: [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>eKiosk Overview</title>
+		<link>/knowledge-base/manual/ekiosk/ekiosk-overview/</link>
+		
+		<dc:creator><![CDATA[dava-LOC]]></dc:creator>
+		<pubDate>Wed, 13 Oct 2021 21:16:15 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=epkb_post_type_1&#038;p=425</guid>
+
+					<description><![CDATA[Information The SMS eKiosk option provides a convenient, time-saving kiosk solution accessible on a Kiosk system. The option&#8217;s design is similar to the eStore concept, which is very much user-friendly and provides specific features for ordering. Features The eKiosk contains a specific set of features to be used in a store by the customers. It [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

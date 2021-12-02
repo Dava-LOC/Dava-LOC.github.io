@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Before you begin &#8211; LOC SMS Help</title>
+	<atom:link href="/knowledge-base/category/get-started-with-loc-esuite/faqs/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Fri, 29 Oct 2021 17:10:49 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/10/cropped-cropped-logoHD-imgonly-e1634052096442-32x32.png</url>
+	<title>Before you begin &#8211; LOC SMS Help</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>LOC SMS Version 4 Overview</title>
+		<link>/knowledge-base/get-started-with-loc-esuite/faqs/loc-sms-version-4-overview/</link>
+		
+		<dc:creator><![CDATA[dava-LOC]]></dc:creator>
+		<pubDate>Thu, 14 Oct 2021 14:35:04 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=epkb_post_type_1&#038;p=448</guid>
+
+					<description><![CDATA[Information What&#8217;s new in LOC SMS version 4 and how it interacts with LOC SMS version 3.5. Version 4 Concepts LOC SMS version 4 is a layer consisting of services and options that are installed on top of LOC SMS version 3.5 and is currently used only for eSuite, mFloor, eKiosk and the two eCommerce [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Release Notes</title>
+		<link>/knowledge-base/get-started-with-loc-esuite/faqs/release-notes/</link>
+		
+		<dc:creator><![CDATA[dava-LOC]]></dc:creator>
+		<pubDate>Thu, 14 Oct 2021 14:22:31 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=epkb_post_type_1&#038;p=439</guid>
+
+					<description><![CDATA[Information Important information that must be known before upgrading to version 4.5.0 of the LOC Software Management Suite (SMS). System Requirements When upgrading to LOC SMS V4 (eSuite), the LOC SMS version 3.5.0 is required as a base software. This also means that all the necessary steps, security and changes done with version 3.5.0 also [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>Version History</title>
+		<link>/knowledge-base/get-started-with-loc-esuite/faqs/version-history/</link>
+		
+		<dc:creator><![CDATA[dava-LOC]]></dc:creator>
+		<pubDate>Fri, 08 Oct 2021 20:37:04 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=epkb_post_type_1&#038;p=258</guid>
+
+					<description><![CDATA[September 2021 Release — v4/350.13 Release Improvements&#160;&#160; All Option and plugin EXE and DLL files will now display the latest version, to eliminate&#160; confusion that you may be running mixed versions.&#160; eSuite specific training video updates to be released to the Community page&#160;&#160; SCO Parsing Doc available on the Community page&#160;&#160; eSuite Item&#160; New grid [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>KB Editor Features Demo</title>
+		<link>/knowledge-base/get-started-with-loc-esuite/faqs/kb-editor-feature-demo/</link>
+		
+		<dc:creator><![CDATA[dava-LOC]]></dc:creator>
+		<pubDate>Wed, 06 Oct 2021 16:27:34 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=epkb_post_type_1&#038;p=113</guid>
+
+					<description><![CDATA[Article Headings The headings are used to represent the internal hierarchy, they are also used to build the Table of Contents that appears on the side of each document. So always start a section with H2, then its children (if any) use H3), but other sections should revers to H2 to maintain the document&#8217;s hierarchical [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
+		<title>PCI Guide</title>
+		<link>/knowledge-base/get-started-with-loc-esuite/faqs/about-kb-add-ons/</link>
+		
+		<dc:creator><![CDATA[dava-LOC]]></dc:creator>
+		<pubDate>Mon, 20 Sep 2021 16:09:13 +0000</pubDate>
+				<guid isPermaLink="false">/knowledge-base/about-kb-add-ons/</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id eu nisl nunc mi. Sed nisi lacus sed viverra tellus in hac habitasse platea. Quam elementum pulvinar etiam non quam lacus suspendisse faucibus. Eleifend donec pretium vulputate sapien nec.]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>

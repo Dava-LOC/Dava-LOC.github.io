@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Fuel &#8211; LOC SMS Help</title>
+	<atom:link href="/knowledge-base/category/guides-and-tutorials/fuel/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Thu, 21 Oct 2021 14:06:06 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/10/cropped-cropped-logoHD-imgonly-e1634052096442-32x32.png</url>
+	<title>Fuel &#8211; LOC SMS Help</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>How to Setup a Fuel Pump</title>
+		<link>/knowledge-base/guides-and-tutorials/fuel/how-to-setup-a-fuel-pump/</link>
+		
+		<dc:creator><![CDATA[dava-LOC]]></dc:creator>
+		<pubDate>Thu, 21 Oct 2021 14:06:06 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=epkb_post_type_1&#038;p=775</guid>
+
+					<description><![CDATA[Information This can be completed in 12 seamless steps; however, it is recommended to have an assistant to facilitate the process. Steps Park the vehicle on a firm, level surface and set the parking brake. Find the fuel pump, which on most vehicles is in the fuel tank. Once located, open the fuel cap and [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>
